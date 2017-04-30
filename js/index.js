@@ -1,6 +1,7 @@
 $('.chat[data-chat=ashley]').addClass('active-chat');
 $('.person[data-chat=ashley]').addClass('active');
 
+//$.get('pagead2.googlesyndication.com/pagead/js/adsbygoogle.js');
 
 $('.left .person').mousedown(function(){
     if ($(this).hasClass('.active')) {
