@@ -482,3 +482,15 @@ body {
   color: white;
   text-decoration: none;
 }
+
+
+.blocker{
+    position: absolute;
+    left: 0;
+    right: 0;
+    background: #efefef;
+    top: 67px;
+    width: 100%;
+    z-index: 1000;
+    height: 44px;
+}
