@@ -494,3 +494,8 @@ body {
     z-index: 1000;
     height: 44px;
 }
+
+.support {
+    display: flex !important;
+    align-items: center;
+}
